@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Quick App Launch</string>
+    <string name="title_activity_main">Applications</string>
+    <string name="action_search">Search</string>
+    <string name="action_search_hint">Search app</string>
+    <string name="desc_application_icon">Application icon</string>
+    <string name="widget_text_default">Quick App search</string>
+
+</resources>
