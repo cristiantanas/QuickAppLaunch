@@ -35,6 +35,7 @@ public class AppQueryWidget extends AppWidgetProvider {
 
             RemoteViews widgetView = new RemoteViews(context.getPackageName(), R.layout.widget_app_search);
             widgetView.setOnClickPendingIntent(R.id.btn_search, homeActivityPendingIntent);
+            widgetView.setOnClickPendingIntent(R.id.edt_query_text, homeActivityPendingIntent);
 
             appWidgetManager.updateAppWidget( widgetId, widgetView );
 

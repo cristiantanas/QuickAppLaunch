@@ -3,7 +3,7 @@
     <string name="app_name">Quick App Launch</string>
     <string name="action_search">Cercar</string>
     <string name="action_search_hint">Cercar aplicació</string>
-    <string name="desc_application_icon">Icona de l'aplicació</string>
+    <string name="desc_application_icon">Icona de l\'aplicació</string>
     <string name="title_activity_main">Aplicacions</string>
     <string name="widget_text_default">Cerca ràpida</string>
 </resources>
