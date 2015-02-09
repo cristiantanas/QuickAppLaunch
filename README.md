@@ -15,6 +15,11 @@ Find me on Twitter and LinkedIn:
 - https://twitter.com/ctanas
 - https://www.linkedin.com/in/ctanas
 
+# Acknowledgments
+
+Application icon: Winter Lollipop by Yana Kulakova (https://www.iconfinder.com/ya.kulakova).
+Many thanks to Yana and to every person sharing their design so others can use.
+
 # Licence
 
 The MIT License (MIT)
